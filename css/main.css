@@ -164,3 +164,24 @@ transition: background-color 0.2s ease-in;
 .messanger:hover {
     background-color: #1E1E1E;
 }
+
+/*Footer*/
+
+.footer {
+padding: 30px 0;
+background-color: #1E1E1E;
+color: #5D5D5D;
+}
+
+.footer a {
+color: #5886A8;
+}
+
+.footer-inner {
+font-size: 14px;
+text-align: center;
+}
+
+.footer-inner p+p {
+margin-top: 15px;
+}
